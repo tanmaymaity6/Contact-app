@@ -1,8 +1,16 @@
 # React + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. One top of the standard Vite setup, [tailwindcss](https://tailwindcss.com/) is installed and ready to be used in React components.
+A simple and clean Contact Management App built using React, TypeScript, TailwindCSS, and DaisyUI.
+Users can:
 
-Additional references:
-* [Getting started with Vite](https://vitejs.dev/guide/)
-* [Tailwind documentation](https://tailwindcss.com/docs/installation)
+➕ Add new contacts
 
+✏️ Edit existing contacts
+
+❌ Delete contacts
+
+🔄 Flip cards to reveal edit mode
+
+📇 View all contacts in a card-based layout
+
+This project demonstrates component-driven UI design, 3D flip animations, and modern styling with Tailwind + DaisyUI.
