@@ -1,4 +1,4 @@
-# React + Tailwind
+# React + Tailwind + DaisyUI + Flip Animation
 
 A simple and clean Contact Management App built using React, TypeScript, TailwindCSS, and DaisyUI.
 Users can:
